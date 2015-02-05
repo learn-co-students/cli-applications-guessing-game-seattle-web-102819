@@ -32,6 +32,31 @@ your command line shell which program to run the file with.
 
 ## Building the `run_guessing_game` method
 
+So your `run_guessing_game` method is going to be responsible for several things:
+    - Taking in input from the command line
+    - Comparing that input to a random number that has been generated
+    - Printing out a statement `You guessed the correct number!` if the number has been guessed correctly, or `The computer guessed <number>.` if the number has been guessed incorrectly
+    - Allowing the user to exit the program when `exit` is the input
+
+## Things to Keep in Mind
+
+This is a challenging lab, so go through it slowly. Look at the RSpec test and see what the tests are looking for. Talk to each other and communicate your way through roadblocks.
+
+Also, run `ironboard` in order to run your tests!
+
+### Hints...
+
+_The Curious Tale of Shrek_
+
+```
+There was once an ogre who had no friends,
+He lived out in the swamp for the longest __while__,
+Living out his days in quiet contemplation,
+He really didn't tolerate the presence of __rand__oms,
+Until an annoying donkey once came along,
+And started to __break__ his brain with madness.
+```
+
 ## Resources
 * [Learn to Program](http://books.flatironschool.com/books/43) - [7.3 Looping](http://books.flatironschool.com/books/43?page=54), page 54
 * [Learn to Program](http://books.flatironschool.com/books/43?) - [5.3 The gets Method](http://books.flatironschool.com/books/43?page=36), page 36
