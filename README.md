@@ -30,6 +30,9 @@ Alternatively, you can also just say `bin/guessing_cli` since a line of
 code has been added to the top of the bin/guessing_cli runner file that tells
 your command line shell which program to run the file with.
 
+## Building the `run_guessing_game` method
+
 ## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43?page=54) - [7.3 Looping](http://books.flatironschool.com/books/43?page=54), page 54
-* [Learn to Program](http://books.flatironschool.com/books/43?page=36) - [5.3 The gets Method](http://books.flatironschool.com/books/43?page=36), page 36
+* [Learn to Program](http://books.flatironschool.com/books/43) - [7.3 Looping](http://books.flatironschool.com/books/43?page=54), page 54
+* [Learn to Program](http://books.flatironschool.com/books/43?) - [5.3 The gets Method](http://books.flatironschool.com/books/43?page=36), page 36
+* [Learn to Program](http://books.flatironschool.com/books/43?) - [5.5 The chomp Method](http://books.flatironschool.com/books/43?page=36), page 36
