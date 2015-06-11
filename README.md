@@ -1,9 +1,3 @@
----
-  tags: user input, looping, cli, gets
-  languages: ruby
-  resources: 3
----
-
 # Build a Guessing Game in the CLI
 
 ### Skills: user input, methods, cli, looping, gets
