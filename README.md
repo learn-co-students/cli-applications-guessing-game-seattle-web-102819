@@ -55,3 +55,5 @@ And started to __break__ his brain with madness.
 * [Learn to Program](http://books.flatironschool.com/books/43) - [7.3 Looping](http://books.flatironschool.com/books/43?page=54), page 54
 * [Learn to Program](http://books.flatironschool.com/books/43?) - [5.3 The gets Method](http://books.flatironschool.com/books/43?page=36), page 36
 * [Learn to Program](http://books.flatironschool.com/books/43?) - [5.5 The chomp Method](http://books.flatironschool.com/books/43?page=36), page 36
+
+<a href='https://learn.co/lessons/guessing-cli' data-visibility='hidden'>View this lesson on Learn.co</a>
