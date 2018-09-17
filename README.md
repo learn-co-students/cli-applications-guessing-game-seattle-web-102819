@@ -52,8 +52,8 @@ And started to __break__ his brain with madness.
 ```
 
 ## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43) - [7.3 Looping](http://books.flatironschool.com/books/43?page=54), page 54
-* [Learn to Program](http://books.flatironschool.com/books/43?) - [5.3 The gets Method](http://books.flatironschool.com/books/43?page=36), page 36
-* [Learn to Program](http://books.flatironschool.com/books/43?) - [5.5 The chomp Method](http://books.flatironschool.com/books/43?page=36), page 36
+
+* [Learn to Program](https://pine.fm/LearnToProgram/chap_06.html) - [Looping] Section
+* [Learn to Program](https://pine.fm/LearnToProgram/chap_04.html) - [The Methods `gets` and `chomp`]
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/guessing-cli' title='Build a Guessing Game in the CLI'>Build a Guessing Game in the CLI</a> on Learn.co and start learning to code for free.</p>
