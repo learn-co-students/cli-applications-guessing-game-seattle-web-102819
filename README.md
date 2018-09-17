@@ -36,7 +36,7 @@ So your `run_guessing_game` method is going to be responsible for several things
 
 This is a challenging lab, so go through it slowly. Look at the RSpec test and see what the tests are looking for. Talk to each other and communicate your way through roadblocks.
 
-Also, run `ironboard` in order to run your tests!
+Also, run `learn` in order to run your tests!
 
 ### Hints...
 
